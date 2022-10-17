@@ -1,0 +1,30 @@
+/* variables.module.scss */
+
+// colors
+$hud-cream: #fcfcda;
+$hud-black-1: #153302;
+$hud-black-2: #31312e;
+$hud-green-1: #69fca7;
+$hud-green-2: #55d986;
+$hud-yellow-1: #fce434;
+$hud-yellow-2: #c3a807;
+$hud-red-1: #f45641;
+$hud-red-2: #a33e3d;
+$hud-blue-exp: #3ad6ff;
+$hud-blue-male: #3ac8f2;
+$hud-pink-female: #f58f8b;
+
+:export {
+  hud_cream: $hud-cream;
+  hud_black_1: $hud-black-1;
+  hud_black_2: $hud-black-2;
+  hud_green_1: $hud-green-1;
+  hud_green_2: $hud-green-2;
+  hud_yellow_1: $hud-yellow-1;
+  hud_yellow_2: $hud-yellow-2;
+  hud_red_1: $hud-red-1;
+  hud_red_2: $hud-red-2;
+  hud_blue_exp: $hud-blue-exp;
+  hud_blue_male: $hud-blue-male;
+  hud_pink_female: $hud-pink-female;
+}
